@@ -1,0 +1,18 @@
+ul, ol, li {
+  margin-top: 5px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+thead{
+  font-weight: bold;
+}
+
+tfoot{
+  font-weight: bold;
+  text-align: center;
+}
